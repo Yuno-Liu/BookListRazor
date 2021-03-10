@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jqLanw2yZXC1ogwoEsCbfx9LSZRLuL7Tec9S/vMO6bmu5GT/KB7PQcsL37Ny8t1souoWNpJhtT8igyDNFlP4hQ==",
+  "dgSpecHash": "7HHauHzdJjtnwUMRHmIE2RA7+9svwE4oZnTVbWRQihicjbP94uD+ffde0td3u6P4rPDIlSR2K4jrz3hIQ0A/Pg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Capoo\\source\\repos\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+  "projectFilePath": "C:\\Users\\Capoo\\Desktop\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Capoo\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.12\\microsoft.aspnetcore.mvc.razor.extensions.3.1.12.nupkg.sha512",
     "C:\\Users\\Capoo\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\3.1.12\\microsoft.aspnetcore.mvc.razor.runtimecompilation.3.1.12.nupkg.sha512",
